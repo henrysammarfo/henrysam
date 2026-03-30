@@ -4,7 +4,7 @@
 
 ###
 
-<h6 align="center">Hi, I’m Henry (Sam) Marfo — an AI + Blockchain Developer and Cybersecurity undergraduate (Level 300) focused on building secure, scalable, real-world systems.<br><br>🔭 I’m currently building AI-powered applications, autonomous agents, and multi-chain Web3 systems with real-world impact<br><br>👯 I’m open to collaborating on high-impact projects across AI, DeFi, blockchain, and security — from hackathon MVPs to production-ready products<br><br>🤝 I’m interested in scaling systems, improving smart contract security, and taking products from idea → MVP → real users<br><br>🌱 I’m continuously learning advanced AI systems, backend architecture, and cybersecurity principles for secure system design<br><br>💬 Ask me about AI + Web3 development, multi-chain ecosystems , cybersecurity basics, and how to ship fast and effectively ⚡</h6>
+<h2 align="center">Hi, I’m Henry (Sam) Marfo — an AI + Blockchain Developer and Cybersecurity undergraduate (Level 300) focused on building secure, scalable, real-world systems.<br><br>🔭 I’m currently building AI-powered applications, autonomous agents, and multi-chain Web3 systems with real-world impact<br><br>👯 I’m open to collaborating on high-impact projects across AI, DeFi, blockchain, and security — from hackathon MVPs to production-ready products<br><br>🤝 I’m interested in scaling systems, improving smart contract security, and taking products from idea → MVP → real users<br><br>🌱 I’m continuously learning advanced AI systems, backend architecture, and cybersecurity principles for secure system design<br><br>💬 Ask me about AI + Web3 development, multi-chain ecosystems , cybersecurity basics, and how to ship fast and effectively ⚡</h2>
 
 ###
 
