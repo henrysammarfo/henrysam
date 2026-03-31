@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hi, I’m Henry (Sam) Marfo — an AI + Blockchain Developer and Cybersecurity undergraduate (Level 300) focused on building secure, scalable, real-world systems.<br><br>🔭 I’m currently building AI-powered applications, autonomous agents, and multi-chain Web3 systems with real-world impact<br><br>👯 I’m open to collaborating on high-impact projects across AI, DeFi, blockchain, and security — from hackathon MVPs to production-ready products<br><br>🤝 I’m interested in scaling systems, improving smart contract security, and taking products from idea → MVP → real users<br><br>🌱 I’m continuously learning advanced AI systems, backend architecture, and cybersecurity principles for secure system design<br><br>💬 Ask me about AI + Web3 development, multi-chain ecosystems , cybersecurity basics, and how to ship fast and effectively ⚡</h2>
+<h2 align="center">Hi, I’m Henry (Sam) Marfo — an AI + Blockchain Developer and Cybersecurity undergraduate (Level 300) focused on building secure, scalable, real-world systems.<br><br>🔭 I’m currently building AI-powered applications, autonomous agents, and multi-chain Web3 systems with real-world impact<br><br>👯 I’m open to collaborating on high-impact projects across AI, DeFi, blockchain, and security — from hackathon MVPs to production-ready products<br><br>I’m interested in scaling systems, improving smart contract security, and taking products from idea → MVP → real users<br><br>🌱 I’m continuously learning advanced AI systems, backend architecture, and cybersecurity principles for secure system design<br><br>💬 Ask me about AI + Web3 development, multi-chain ecosystems , cybersecurity basics, and how to ship fast and effectively ⚡</h2>
 
 ###
 
@@ -94,18 +94,16 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henrysammarfo/henrysammarfo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henrysammarfo/henrysammarfo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/henrysammarfo/henrysammarfo/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/31637e7dmgputdq3mfcasgvpe3wi">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31637e7dmgputdq3mfcasgvpe3wi&count=1&unique=false" alt="Spotify recently played"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=henrysammarfo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
